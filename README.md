@@ -1,4 +1,10 @@
-# THIS IS NOT FULLY TESTED YET.
+> BETA: not fully tested, do not hesitate to report issues
+
+## Example
+
+https://hicetnunc.art/objkt/603254
+
+
 
 ## Install
 
